@@ -1,16 +1,14 @@
-## Hi there 👋
+# ABOUT ME:
+|| CSE Student (2nd Year) ||Python Developer || AIML Enthusiast || <br> Passionate about Machine Learning, Deep Learning, and Problem Solving.
 
-<!--
-**Debashrita2005/Debashrita2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.https://www.linkedin.com/in/debashrita-mandal-995279302/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandaldebashrita@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ##  📫 Let's connect:  
+## *Feel free to collaborate and share ideas!
+  [Get in Touch With Me]
+  (mandaldebashrita@gmail.com) 
+  
+
